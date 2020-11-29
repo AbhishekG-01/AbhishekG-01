@@ -12,5 +12,5 @@ Thanks for visiting my profile!
 [<img align="left" alt="Abhishek | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-[instagram]: https://www.instagram.com/_abhishek_gautam_1
 [linkedin]: https://www.linkedin.com/in/abhishek-gautam-
+[instagram]: https://www.instagram.com/_abhishek_gautam_1
