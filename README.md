@@ -11,8 +11,8 @@ Thanks for visiting my profile!
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 
-[1.1]: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg
-[1.2]: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg
+[1.1]: http://www.entypo.com/images/linkedin.svg
+[1.2]: http://www.entypo.com/images/instagram.svg
 
 [1]: https://www.linkedin.com/in/abhishek-gautam-
 [2]: https://www.instagram.com/_abhishek_gautam_1
