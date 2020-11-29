@@ -11,11 +11,10 @@ Thanks for visiting my profile!
 [![LinkedIn][1.2][1]
 [![Instagram][2.2]][2]
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
+[1.2]: https://www.flaticon.com/svg/static/icons/svg/733/733614.svg
+[2.2]: https://www.flaticon.com/svg/static/icons/svg/61/61109.svg
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://linkedin/in/abhishek-gautam-/
+[2]: https://www.instagram.com/_abhishek_gautam_1
 
