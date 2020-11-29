@@ -8,8 +8,8 @@
 Thanks for visiting my profile!
 ### Let's Connect:
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
+[![alt text][1.1].[1]
+[![alt text][2.1]].[2]
 
 [1.1]: http://www.entypo.com/images/linkedin.svg
 [1.2]: http://www.entypo.com/images/instagram.svg
