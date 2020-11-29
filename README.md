@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔭 I’m currently a second year CSE student!
+- 🔭 I’m currently a sophomore CSE student!
 - 🌱 I’m currently learning Web Dev and Cyber security
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play football and listen lots of music.
