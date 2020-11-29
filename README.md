@@ -8,9 +8,11 @@
 Thanks for visiting my profile!
 ### Let's Connect:
 
-[<img align="left" alt="Abhishek | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Abhishek | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
 
-<br />
-[linkedin]: https://www.linkedin.com/in/abhishek-gautam-
-[instagram]: https://www.instagram.com/_abhishek_gautam_1
+[1.1]: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg
+[1.2]: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg
+
+[1]: https://www.linkedin.com/in/abhishek-gautam-
+[2]: https://www.instagram.com/_abhishek_gautam_1
