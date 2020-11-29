@@ -8,8 +8,7 @@
 Thanks for visiting my profile!
 ### Let's Connect:
 
-[![LinkedIn][1.2][1]
-[![Instagram][2.2]][2]
+[![LinkedIn][1.2][1] [![Instagram][2.2]][2]
 
 [1.2]: https://www.flaticon.com/svg/static/icons/svg/733/733614.svg
 [2.2]: https://www.flaticon.com/svg/static/icons/svg/61/61109.svg
