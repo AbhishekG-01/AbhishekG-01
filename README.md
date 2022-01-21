@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently a CSE student!
 - 🌱 I’m currently learning Web Dev
-- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play football and listen lots of music.
 
 <h3 align="left">Connect with me:</h3>
