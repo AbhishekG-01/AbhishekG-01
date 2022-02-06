@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abhishek-gautam-" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abhishek-gautam-" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhishek-gtm/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abhishek-gautam-" height="30" width="40" /></a>
 <a href="https://instagram.com/_abhishek_gautam_1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_abhishek_gautam_1" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abhishekgautam31" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="abhishekgautam31" height="30" width="40" /></a>
 </p>
